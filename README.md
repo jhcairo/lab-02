@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+While working on this lab, I used OpenAI’s ChatGPT as a resource when I ran into debugging issues. I also asked questions about how button click listeners work in Android and how to define the behavior of buttons when they are clicked. I used these explanations to understand the concepts and then implemented the solutions myself.
 
 ## Verbal Collaboration
 
